@@ -1,5 +1,5 @@
 class BoardGame:
-    ''' A class to store and handle information about and for the tic tac toe
+    ''' A class to store and handle information about and for the tic tac toe!!!
 
     Attributes:
         Players user name(str): The user name of either player 1 or 2
